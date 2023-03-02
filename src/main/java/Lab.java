@@ -37,7 +37,7 @@ public class Lab {
         int i = 0;
 
 //        code here
-        while(i < 5) {
+        while(i < end) {
             sum = sum +i;
             i++;
         }
